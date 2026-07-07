@@ -95,7 +95,7 @@ Interactive Hand-Tracking Laser String Animation
 - 🌐 **Portfolio**: https://22kathan.github.io/portfolio/
 - 💼 **LinkedIn**: https://www.linkedin.com/in/kathan-gadhiya10
 - 📧 **Email**: gadhiyakathan10@gmail.com
-- 🐙 **GitHub**: https://github.com/gadhiyakathan
+- 🐙 **GitHub**: https://github.com/22kathan
 
 ---
 
