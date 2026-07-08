@@ -29,6 +29,22 @@ me.say_hi()
 
 ## 🎯 Featured Projects
 
+### 🛡️ **TruthShield — AI-Driven Media Verification System**
+An advanced, client-side digital forensics and semantic check suite for detecting fake news, image manipulation, and video deepfakes.
+- Developed under the conceptual requirements of the Ahmedabad City Police Cyber Crime Branch.
+- Implements Error Level Analysis (ELA) and a custom CNN in TensorFlow.js to scan local image patches for compression inconsistencies and splicing.
+- Performs semantic text analysis and zero-shot stance detection using the Universal Sentence Encoder.
+- Computes temporal neural stability across video frames using MobileNet V2 to flag sudden flickering or splicing artifacts.
+- **Tech**: JavaScript (ES6+), TensorFlow.js (WebGL/CPU), MobileNet V2, Universal Sentence Encoder (USE), HTML5/CSS3 (Glassmorphism UI)
+
+### ⚡ **Flux — Neural Interactive Hand Tracking**
+A real-time, gesture-controlled interactive interface featuring neural hand tracking, NLP voice command processing, and AI-powered session analytics.
+- Leverages MediaPipe Hands and TensorFlow.js for client-side deep learning gesture recognition and real-time interactive canvas drawing.
+- Integrates NLP-driven voice control using the Web Speech API to command drawing modes and settings hands-free.
+- Provides comprehensive session analytics mapping gesture frequency, canvas coverage, and performance.
+- Features a high-fidelity retro CRT/cyberpunk visual interface with canvas stroke rendering and interactive particle effects.
+- **Tech**: JavaScript, MediaPipe (Hands), TensorFlow.js, Web Speech API (NLP Voice Commands), HTML5 Canvas, Vanilla CSS (CRT Shader effect)
+
 ### 📊 **Employee Data Analysis**
 Comprehensive EDA on 10000 Synthetic Employee Records
 - Performed exploratory data analysis on employee dataset
@@ -47,20 +63,20 @@ Interactive Hand-Tracking Laser String Animation
 
 ## 🛠️ Tech Stack & Skills
 
-### 🧠 Machine Learning & AI
-- **Languages**: Python
-- **Libraries**: TensorFlow, PyTorch, Keras, scikit-learn
-- **Specializations**: Deep Learning, Neural Networks, Model Training
+### 🧠 Machine Learning, AI & CV
+- **Languages**: Python, JavaScript (ES6+)
+- **Libraries & Frameworks**: TensorFlow.js, TensorFlow, PyTorch, Keras, scikit-learn, MediaPipe, OpenCV
+- **Models & Embeddings**: Universal Sentence Encoder (USE), MobileNet V2
+- **Specializations**: Deep Learning, Neural Networks, Computer Vision, Client-side AI, Real-time Image Processing
 
 ### 📊 Data & Analytics
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Statistical Analysis**: Statistical hypothesis testing, EDA
 
-### 💻 Computer Vision
-- OpenCV
-- MediaPipe
-- Real-time Image Processing
+### 🌐 Web Development & Creative Tech
+- **APIs & Web Technologies**: Web Speech API (Speech-to-Text), HTML5 Canvas, WebGL (Hardware Acceleration)
+- **Styling & Design**: HTML5, Vanilla CSS3 (Glassmorphism, CRT filter effects, Responsive UI)
 
 ### 🛠️ Tools & Platforms
 - Jupyter Notebook
