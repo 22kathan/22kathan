@@ -52,12 +52,13 @@ Comprehensive EDA on 10000 Synthetic Employee Records
 - Identified key patterns in compensation, performance, and demographics
 - **Tech**: Python, Pandas, Matplotlib, Seaborn
 
-### 🎮 **Laser Hands — Cat's Cradle**
-Interactive Hand-Tracking Laser String Animation
-- Built real-time hand tracking system with computer vision
-- Created interactive laser animation synchronized with hand movements
-- Implemented smooth, responsive visual feedback
-- **Tech**: Python, OpenCV, MediaPipe, Real-time Processing
+### 🩺 **DPS — Diabetes Prediction System**
+A lightweight, end-to-end machine learning-powered diabetes risk assessment tool with an interactive web interface.
+- Generates synthetic medical datasets and handles class imbalance using SMOTE.
+- Preprocesses and trains a comparative pipeline of multiple Scikit-learn classification models.
+- Implements Mutual Information feature analysis to compute and explain contribution metrics for each prediction.
+- Exposes predictions through a FastAPI backend API and a clean, responsive frontend dashboard.
+- **Tech**: Python, Scikit-learn, SMOTE (imbalanced-learn), FastAPI, Uvicorn, JavaScript, HTML5/CSS3
 
 ---
 
@@ -65,7 +66,7 @@ Interactive Hand-Tracking Laser String Animation
 
 ### 🧠 Machine Learning, AI & CV
 - **Languages**: Python, JavaScript (ES6+)
-- **Libraries & Frameworks**: TensorFlow.js, TensorFlow, PyTorch, Keras, scikit-learn, MediaPipe, OpenCV
+- **Libraries & Frameworks**: TensorFlow.js, TensorFlow, PyTorch, Keras, scikit-learn, imbalanced-learn (SMOTE), MediaPipe, OpenCV
 - **Models & Embeddings**: Universal Sentence Encoder (USE), MobileNet V2
 - **Specializations**: Deep Learning, Neural Networks, Computer Vision, Client-side AI, Real-time Image Processing
 
@@ -75,7 +76,8 @@ Interactive Hand-Tracking Laser String Animation
 - **Statistical Analysis**: Statistical hypothesis testing, EDA
 
 ### 🌐 Web Development & Creative Tech
-- **APIs & Web Technologies**: Web Speech API (Speech-to-Text), HTML5 Canvas, WebGL (Hardware Acceleration)
+- **Backend & APIs**: FastAPI, Uvicorn, Web Speech API (Speech-to-Text)
+- **Frontend & Graphics**: HTML5 Canvas, WebGL (Hardware Acceleration)
 - **Styling & Design**: HTML5, Vanilla CSS3 (Glassmorphism, CRT filter effects, Responsive UI)
 
 ### 🛠️ Tools & Platforms
