@@ -30,7 +30,7 @@ me.say_hi()
 ## 🎯 Featured Projects
 
 ### 📊 **Employee Data Analysis**
-Comprehensive EDA on 100 Synthetic Employee Records
+Comprehensive EDA on 10000 Synthetic Employee Records
 - Performed exploratory data analysis on employee dataset
 - Generated insightful visualizations and statistical summaries
 - Identified key patterns in compensation, performance, and demographics
