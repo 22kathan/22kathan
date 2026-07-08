@@ -14,7 +14,7 @@ class DataScientist:
         self.name       = "Kathan Gadhiya"
         self.location   = "Ahmedabad, India 🇮🇳"
         self.education  = "BTech AI @ Gandhinagar University (2024-28)"
-        self.interests  = ["Machine Learning", "Data Analysis", "Computer Vision"]
+        self.interests  = ["Machine Learning", "Data Scientist"]
         self.learning   = ["Deep Learning", "Advanced Statistics", "MLOps"]
         self.fun_fact   = "I combine data science with creative projects like interactive hand-tracking!"
 
