@@ -2,6 +2,8 @@
 
 **Data Scientist | ML Enthusiast | AI Explorer**  
 
+🌐 **Live Portfolio Website**: [https://22kathan.github.io/portfolio/](https://22kathan.github.io/portfolio/)
+
 ---
 
 ## 👨‍💻 About Me
@@ -45,12 +47,12 @@ A real-time, gesture-controlled interactive interface featuring neural hand trac
 - Features a high-fidelity retro CRT/cyberpunk visual interface with canvas stroke rendering and interactive particle effects.
 - **Tech**: JavaScript, MediaPipe (Hands), TensorFlow.js, Web Speech API (NLP Voice Commands), HTML5 Canvas, Vanilla CSS (CRT Shader effect)
 
-### 📊 **Employee Data Analysis**
-Comprehensive EDA on 10000 Synthetic Employee Records
-- Performed exploratory data analysis on employee dataset
-- Generated insightful visualizations and statistical summaries
-- Identified key patterns in compensation, performance, and demographics
-- **Tech**: Python, Pandas, Matplotlib, Seaborn
+### 📊 **Employee Data Analysis & ML Intelligence**
+Comprehensive EDA and Attrition Predictive Modeling on 10,000 Synthetic Employee Records.
+- RandomForest Attrition Risk Classification & Salary Benchmarking Regressor
+- Model Explainability with SHAP feature attributions
+- Interactive Streamlit Dashboard with Plotly visualizations
+- **Tech**: Python, Scikit-Learn, SHAP, Streamlit, Pandas, Matplotlib, Seaborn, Power BI DAX
 
 ### 🩺 **DPS — Diabetes Prediction System**
 A lightweight, end-to-end machine learning-powered diabetes risk assessment tool with an interactive web interface.
@@ -62,49 +64,23 @@ A lightweight, end-to-end machine learning-powered diabetes risk assessment tool
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🌐 Web Portfolio Structure
 
-### 🧠 Machine Learning, AI & CV
-- **Languages**: Python, JavaScript (ES6+)
-- **Libraries & Frameworks**: TensorFlow.js, TensorFlow, PyTorch, Keras, scikit-learn, imbalanced-learn (SMOTE), MediaPipe, OpenCV
-- **Models & Embeddings**: Universal Sentence Encoder (USE), MobileNet V2
-- **Specializations**: Deep Learning, Neural Networks, Computer Vision, Client-side AI, Real-time Image Processing
+```text
+22kathan/
+├── index.html        # Main interactive portfolio portal
+├── css/
+│   └── style.css     # Cyber dark glassmorphism styling
+├── js/
+│   └── main.js       # Animated typing text & smooth navigation
+└── README.md
+```
 
-### 📊 Data & Analytics
-- **Data Processing**: Pandas, NumPy
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **Statistical Analysis**: Statistical hypothesis testing, EDA
-
-### 🌐 Web Development & Creative Tech
-- **Backend & APIs**: FastAPI, Uvicorn, Web Speech API (Speech-to-Text)
-- **Frontend & Graphics**: HTML5 Canvas, WebGL (Hardware Acceleration)
-- **Styling & Design**: HTML5, Vanilla CSS3 (Glassmorphism, CRT filter effects, Responsive UI)
-
-### 🛠️ Tools & Platforms
-- Jupyter Notebook
-- Google Colab
-- VS Code
-- Git & GitHub
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- 🧠 Deep Learning Architectures (CNNs, RNNs, Transformers)
-- 📈 Advanced Statistics & Bayesian Methods
-- 🔬 Computer Vision (Image Classification, Object Detection)
-- 📝 Natural Language Processing
-- 🚀 MLOps & Model Deployment
-
----
-
-## 🤝 Let's Collaborate On
-
-- 📊 Data analysis & visualization projects
-- 🤖 Machine learning model development
-- 🔬 Research in Computer Vision & NLP
-- 💡 Open-source ML tools and libraries
-- 🎓 Educational content on AI/ML topics
+### Running Locally
+```bash
+python -m http.server 8000
+```
+Navigate to `http://localhost:8000`.
 
 ---
 
@@ -114,23 +90,3 @@ A lightweight, end-to-end machine learning-powered diabetes risk assessment tool
 - 💼 **LinkedIn**: https://www.linkedin.com/in/kathan-gadhiya10
 - 📧 **Email**: gadhiyakathan10@gmail.com
 - 🐙 **GitHub**: https://github.com/22kathan
-
----
-
-## ⚡ Fun Facts
-
-> *"I believe the best way to learn is by building. Every project teaches me something new!"*
-
-- 🎯 Passionate about turning data into decisions
-- 🚀 Always exploring new ML techniques and frameworks
-- 💡 Love combining technical skills with creative projects
-- 📚 Continuous learner in the AI/ML space
-
----
-
-
-<div align="center">
-
-**Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 🚀**
-
-</div>
